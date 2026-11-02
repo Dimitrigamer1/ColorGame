@@ -8,6 +8,7 @@ ColorGame is a game where you type the color of the word
 Requirement: 
 
 python 3.9 or newer
+customtkinter version: 6.0.0
 
 ```bash
 pip install customtkinter
